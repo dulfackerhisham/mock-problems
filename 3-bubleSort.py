@@ -10,6 +10,6 @@ def sort(nums):
             break
     return nums
 
-nums = [7, 4, 3, 5, 1]
+nums = [5, 14, 1, 4, 2]
 sort(nums)
 print(nums)
